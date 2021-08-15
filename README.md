@@ -28,7 +28,7 @@ yarn add company-email-validator
 
 var CompanyEmailValidator = require("company-email-validator");
 
-CompanyEmailValidator.isCompanyEmail("test@company.com"); // true
+CompanyEmailValidator.isCompanyEmail("test@utterly.app"); // true
 
 ```
 
@@ -38,7 +38,7 @@ CompanyEmailValidator.isCompanyEmail("test@company.com"); // true
 
 import * as CompanyEmailValidator from 'company-email-validator';
 
-CompanyEmailValidator.isCompanyEmail("test@company.com"); // true
+CompanyEmailValidator.isCompanyEmail("test@utterly.app"); // true
 
 
 ```
