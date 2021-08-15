@@ -4,6 +4,7 @@ Provides a fast company / work email validator by checking whether the email dom
 [![version](https://img.shields.io/npm/v/company-email-validator.svg?style=flat-square)]((http://npm.im/company-email-validator))
 [![downloads](https://img.shields.io/npm/dm/company-email-validator.svg?style=flat-square)](https://npm-stat.com/charts.html?package=company-email-validator&from=2015-08-01)
 
+Made with :heart: by [Utterly (noise removal for online meetings)](http://utterly.app)
 
 ## Installation
 Install via NPM:
