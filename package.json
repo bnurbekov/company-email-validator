@@ -1,6 +1,6 @@
 {
   "name": "company-email-validator",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "author": "Batyrlan Nurbekov <batyrlan@utterly.app>",
   "description": "Provides a fast company / work email validator by checking whether the email domain is in the free email provider list.",
   "main": "index",
