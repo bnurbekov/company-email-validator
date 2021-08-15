@@ -49,4 +49,4 @@ Contributions welcome! Check the ``LICENSE`` file for more info.
 
 Distributed under the unlicense public domain. See ``LICENSE`` for more information.
 
-[https://github.com/utterlyteam/company-email-validator](https://github.com/utterlyteam/company-email-validator)
+[https://github.com/bnurbekov/company-email-validator](https://github.com/bnurbekov/company-email-validator)
