@@ -1,6 +1,10 @@
 # company-email-validator
 Provides a fast company / work email validator by checking whether the email domain is in the free email provider list.
 
+[![version](https://img.shields.io/npm/v/email-validator.svg?style=flat-square)]((http://npm.im/company-email-validator))
+[![downloads](https://img.shields.io/npm/dm/email-validator.svg?style=flat-square)](https://npm-stat.com/charts.html?package=company-email-validator&from=2015-08-01)
+
+
 ## Installation
 Install via NPM:
 
