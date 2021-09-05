@@ -1,5 +1,5 @@
 # company-email-validator
-Provides a fast company / work email validator by checking whether the email domain is in the free email provider list. Note: does not check SMTP servers and MX records currently (i.e. doesn't do deep validation).
+Provides a fast company / work email validator by checking whether the email domain is in the free email [provider list](https://github.com/bnurbekov/company-email-validator/blob/main/free_email_provider_domains.js). Note: does not check SMTP servers and MX records currently (i.e. doesn't do deep validation).
 
 [![version](https://img.shields.io/npm/v/company-email-validator.svg?style=flat-square)]((http://npm.im/company-email-validator))
 [![downloads](https://img.shields.io/npm/dm/company-email-validator.svg?style=flat-square)](https://npm-stat.com/charts.html?package=company-email-validator&from=2015-08-01)
@@ -31,6 +31,8 @@ var CompanyEmailValidator = require("company-email-validator");
 
 CompanyEmailValidator.isCompanyEmail("test@utterly.app"); // true
 
+CompanyEmailValidator.isCompanyEmail("test@gmail.com"); // false
+
 ```
 
 #### TypeScript
@@ -41,6 +43,7 @@ import * as CompanyEmailValidator from 'company-email-validator';
 
 CompanyEmailValidator.isCompanyEmail("test@utterly.app"); // true
 
+CompanyEmailValidator.isCompanyEmail("test@gmail.com"); // false
 
 ```
 
