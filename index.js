@@ -13,3 +13,7 @@ exports.isCompanyEmail = function (email) {
     let domain = fields[1];
     return !free_email_provider_set.has(domain); // if the free provider set doesn't have this domain, then most likely it's a company email address
 }
+
+exports.isCompanyDomain = function(domain) {
+    return !free_email_provider_set.has(domain);
+}

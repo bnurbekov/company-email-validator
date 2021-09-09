@@ -19,21 +19,33 @@ const invalidSupported =
     "maria.doe@outlook.com"
 ];
 describe('TEST EMAILS AGAINST VALIDATOR', () => {
-	it('Should Be Valid', () => {
-         validSupported.forEach( email => {
-         	expect(validator.isCompanyEmail(email)).to.equal(true);
-         });
-	});
+    describe('.isCompanyEmail', () => {
+        it('Should Be Valid', () => {
+            validSupported.forEach( email => {
+                expect(validator.isCompanyEmail(email)).to.equal(true);
+            });
+        });
 
-	it('Should Be Invalid', () => {
-         invalidSupported.forEach( email => {
-         	expect(validator.isCompanyEmail(email)).to.equal(false);
-         });
-	});
+        it('Should Be Invalid', () => {
+            invalidSupported.forEach( email => {
+                expect(validator.isCompanyEmail(email)).to.equal(false);
+            });
+        });
 
-	it('Should Be Invalid(UnSupported By Module)', () => {
-         validUnsupported.forEach( email => {
-         	expect(validator.isCompanyEmail(email)).to.equal(false);
-         });
-	});
+        it('Should Be Invalid(UnSupported By Module)', () => {
+            validUnsupported.forEach( email => {
+                expect(validator.isCompanyEmail(email)).to.equal(false);
+            });
+        });
+    });
+
+    describe('.isCompanyDomain', () => {
+        it('Should Allow Valid Domains', () => {
+            expect(validator.isCompanyDomain('utterly.app')).to.equal(true);
+        });
+
+        it('Should Disallow Public Domains', () => {
+            expect(validator.isCompanyDomain('gmail.com')).to.equal(false);
+        });
+    });
 });
