@@ -1262,7 +1262,6 @@ app-inc-vol.ml
 appinventor.nl
 appixie.com
 appl3.tk
-apple.com
 apple.dnsabr.com
 apple.sib.ru
 appleaccount.app
