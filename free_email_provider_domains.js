@@ -16343,6 +16343,6 @@ zzom.co.uksina.com
 zzz.com
 zzz.pl`
 
-free_email_provider_set = new Set(free_email_provider_domains.split("\n"))
+const free_email_provider_set = new Set(free_email_provider_domains.split("\n"))
 
 module.exports = free_email_provider_set ;
