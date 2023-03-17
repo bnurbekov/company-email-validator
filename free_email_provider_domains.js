@@ -10716,6 +10716,7 @@ nfmail.com
 nfnov28y9r7pxox.ga
 nfnov28y9r7pxox.gq
 nfnov28y9r7pxox.ml
+ngrok.io
 ngs.ru
 nguyenusedcars.com
 nh3.ro
@@ -10962,6 +10963,8 @@ oai.asia
 oaklandas-fan.com
 oaksw.com
 oalsp.com
+oast.pro
+oastify.com
 oath.com
 oaudienceij.com
 obfusko.com
