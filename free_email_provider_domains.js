@@ -3687,6 +3687,7 @@ duam.net
 dubaimail.com
 dublin.com
 dublin.ie
+duck.com
 duck2.club
 dudmail.com
 dudumail.com
