@@ -2700,7 +2700,6 @@ clearmail.online
 clearwatermail.info
 clearwire.net
 clendere.asia
-clerk.com
 clever-game.ru
 clickanerd.net
 clickdeal.co
