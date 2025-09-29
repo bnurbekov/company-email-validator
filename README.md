@@ -1,6 +1,6 @@
 # company-email-validator
 
-Good News of Jesus Christ: https://youtu.be/t1BWSOVNm4A
+**Good News of Jesus Christ:** https://youtu.be/t1BWSOVNm4A
 
 Provides a fast company / work email validator by checking whether the email domain is in the free email [provider list](https://github.com/bnurbekov/company-email-validator/blob/main/free_email_provider_domains.js). Note: does not check SMTP servers and MX records currently (i.e. doesn't do deep validation).
 
