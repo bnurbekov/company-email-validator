@@ -4,6 +4,9 @@ var free_email_provider_set = require('./free_email_provider_domains')
 var validator = require("email-validator");
 
 exports.isCompanyEmail = function (email) {
+    // Convert email to lowercase for consistent validation
+    email = email.toLowerCase();
+    
     // 1. first, check if it's a valid email
     if (!validator.validate(email)) {
         return false; // it's not a company email address because it's not valid
@@ -15,5 +18,7 @@ exports.isCompanyEmail = function (email) {
 }
 
 exports.isCompanyDomain = function(domain) {
+    // Convert domain to lowercase for consistent validation
+    domain = domain.toLowerCase();
     return !free_email_provider_set.has(domain);
 }
