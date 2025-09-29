@@ -1,12 +1,13 @@
 # company-email-validator
+
+Good News of Jesus Christ: https://youtu.be/t1BWSOVNm4A
+
 Provides a fast company / work email validator by checking whether the email domain is in the free email [provider list](https://github.com/bnurbekov/company-email-validator/blob/main/free_email_provider_domains.js). Note: does not check SMTP servers and MX records currently (i.e. doesn't do deep validation).
 
 [![version](https://img.shields.io/npm/v/company-email-validator.svg?style=flat-square)]((http://npm.im/company-email-validator))
 [![downloads](https://img.shields.io/npm/dm/company-email-validator.svg?style=flat-square)](https://npm-stat.com/charts.html?package=company-email-validator&from=2015-08-01)
 
-Do you worry about tomorrow? **[This short film gives hope](https://thestoryfilm.com/gospelforall)** for whatever may come.
-
-Made with :heart: by [Utterly (noise removal for online meetings)](http://utterly.app)
+Made with :heart: by a follower of Jesus Christ
 
 ## Installation
 Install via NPM:
