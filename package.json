@@ -49,5 +49,9 @@
   },
   "dependencies": {
     "email-validator": "^2.0.4"
+  },
+  "funding": {
+    "type": "buymeacoffee",
+    "url": "https://www.buymeacoffee.com/bnurbekov"
   }
 }
