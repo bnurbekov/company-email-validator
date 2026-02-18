@@ -11897,6 +11897,7 @@ protestore.co
 proto2mail.com
 protonmail.ch
 protonmail.com
+proton.me
 providier.com
 provmail.net
 proxsei.com
@@ -16347,8 +16348,10 @@ zzom.co.ukgmail.com
 zzom.co.ukhitmail.com
 zzom.co.uksina.com
 zzz.com
-zzz.pl`
+zzz.pl`;
 
-const free_email_provider_set = new Set(free_email_provider_domains.split("\n"))
+const free_email_provider_set = new Set(
+  free_email_provider_domains.split("\n"),
+);
 
-module.exports = free_email_provider_set ;
+module.exports = free_email_provider_set;
