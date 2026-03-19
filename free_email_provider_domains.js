@@ -11897,6 +11897,7 @@ protestore.co
 proto2mail.com
 protonmail.ch
 protonmail.com
+proton.me
 providier.com
 provmail.net
 proxsei.com
