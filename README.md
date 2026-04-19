@@ -6,7 +6,7 @@ Provides a fast company / work email validator by checking whether the email dom
 
 [![version](https://img.shields.io/npm/v/company-email-validator.svg?style=flat-square)]((http://npm.im/company-email-validator))
 [![downloads](https://img.shields.io/npm/dm/company-email-validator.svg?style=flat-square)](https://npm-stat.com/charts.html?package=company-email-validator&from=2015-08-01)
-[![BuyMeACoffee](https://raw.githubusercontent.com/pachadotdev/buymeacoffee-badges/main/bmc-donate-white.svg)](https://www.buymeacoffee.com/bnurbekov)
+[![BuyMeACoffee](https://raw.githubusercontent.com/pachadotdev/buymeacoffee-badges/main/bmc-donate-yellow.svg)](https://www.buymeacoffee.com/bnurbekov)
 
 Made with :heart: by a follower of Jesus Christ
 
