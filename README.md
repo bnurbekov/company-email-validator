@@ -2,7 +2,7 @@
 
 ## The Gospel Message
 
-God is holy and just. As a just judge, He punishes sin. Even the smallest sin (such as lying or having lustful thoughts) is high treason against Him and is punishable by death—both physical and spiritual, eternal death in the lake of fire.
+God is Holy and just. As a just judge, He punishes sin. All sin (such as lying or having lustful thoughts) is high treason against Him and is punishable by death—eternal death in hell, which is described as the lake of fire, where the fire is never quenched, the worm never dies, a place where there will be weeping and gnashing of teeth, outer darkness, and a place of eternal torment where there will be no rest for the worshippers of the beast.
 
 Since we have all sinned (we have lied, had lustful thoughts, and stolen things) so many times in our lives, we are all destined to end up in hell.
 
