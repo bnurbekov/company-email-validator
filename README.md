@@ -12,7 +12,7 @@ Yes, there is!
 
 God, in His mercy, sent His only Son, Jesus Christ, to rescue us by taking our punishment on the cross. Jesus Christ lived a life of perfect righteousness in our place, died on the cross to pay the penalty for our sin, and resurrected on the third day.
 
-If we repent of our sins and believe in Jesus Christ as Lord (God) and Savior, then we will be saved from hell and death and will receive the gift of eternal life.
+If we repent of our sins and believe in Jesus Christ as LORD (God) and Savior, then we will be saved from hell and death and will receive the gift of eternal life.
 
 > “For God so loved the world, that he gave his only Son, that whoever believes in him should not perish but have eternal life.”
 > *(John 3:16)*
