@@ -1,6 +1,24 @@
-# company-email-validator
-
 <u>**Good News of the Lord Jesus Christ: https://youtu.be/t1BWSOVNm4A**</u>
+
+## The Gospel Message
+
+God is holy and just. As a just judge, He punishes sin. Even the smallest sin (such as lying or having lustful thoughts) is high treason against Him and is punishable by death—both physical and spiritual, eternal death in the lake of fire.
+
+Since we have all sinned (we have lied, had lustful thoughts, and stolen things) so many times in our lives, we are all destined to end up in hell.
+
+**Is there any hope?**
+
+Yes, there is!
+
+God, in His mercy, sent His only Son, Jesus Christ, to rescue us by taking our punishment on the cross. Jesus Christ lived a life of perfect righteousness, suffered and died on the cross to pay the penalty for our sin, and rose again on the third day.
+
+If we repent of our sins and believe in Jesus Christ as Lord (God) and Savior, then we will be saved from hell and death and will receive the gift of eternal life.
+
+> “For God so loved the world, that he gave his only Son, that whoever believes in him should not perish but have eternal life.”
+> *(John 3:16)*
+
+
+# company-email-validator
 
 Provides a fast company / work email validator by checking whether the email domain is in the free email [provider list](https://github.com/bnurbekov/company-email-validator/blob/main/free_email_provider_domains.js). Note: does not check SMTP servers and MX records currently (i.e. doesn't do deep validation).
 
