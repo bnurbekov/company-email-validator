@@ -2700,7 +2700,6 @@ clearmail.online
 clearwatermail.info
 clearwire.net
 clendere.asia
-clerk.com
 clever-game.ru
 clickanerd.net
 clickdeal.co
@@ -10463,7 +10462,6 @@ nakam.xyz
 nakammoleb.xyz
 nakedgreens.com
 nakedtruth.biz
-name.com
 nameaaa.myddns.rocks
 namefake.com
 nameplanet.com
