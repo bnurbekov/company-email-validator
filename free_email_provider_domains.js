@@ -11849,6 +11849,7 @@ prismlasers.tk
 privacy.net
 privat.dk
 privatdemail.net
+private.icloud.com
 privatemail.com
 privatemailinator.nl
 privaterelay.appleid.com
